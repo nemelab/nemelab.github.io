@@ -1,6 +1,7 @@
 # site properties and page defaults
-title: 
-subtitle: 
+title: NEME
+show-title : false
+subtitle: Next generation Energy Materials & Electrochemistry Lab
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
