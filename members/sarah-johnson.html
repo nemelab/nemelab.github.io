@@ -400,96 +400,62 @@
   
 
   <section class="background" data-size="page">
-    <div class="float">
-  
-<div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Sarah Johnson">
-    
-      <i class="icon fa-solid fa-code"></i>
-    
-
-    <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        Sarah Johnson
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        Lead Programmer
-      </span>
-    
-
-    
-  </a>
-</div>
-
-<div>
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="mailto:sarah.johnson@gmail.com" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
+    <article class="member-page">
+  <div class="member-header">
+    <img src="images/photo.jpg" alt="Sarah Johnson" class="member-image">
+    <div class="member-meta">
+      <h1>Sarah Johnson</h1>
       
-        <span>Email</span>
       
-    </a>
+      
+      
+    </div>
   </div>
 
-<br>
-  
-    
-    
-    
+  <div class="member-body">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/sarahjohnson" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
-      
-        <span>Twitter</span>
-      
-    </a>
   </div>
+</article>
 
-<br>
-  
-</div>
+<style>
+.member-page {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
 
+.member-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
 
-</div>
+.member-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
 
+.member-meta h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+.member-meta p {
+  margin: 0.2rem 0;
+  font-size: 1rem;
+}
 
-
-
-
-
-
-<p class="center">
-  <a href="/research/?search=%22Sarah%20Johnson%22%20">
-    Search for Sarah Johnson's papers on the Research page
-  </a>
-</p>
-
-
-
-<!--
-<p class="center">
-  <a href="/blog/?search=Sarah%20Johnson">
-    See Sarah Johnson's posts on the Blog page
-  </a>
-</p>
--->
+.member-body {
+  line-height: 1.7;
+}
+</style>
   </section>
 
 

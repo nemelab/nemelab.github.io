@@ -400,56 +400,62 @@
   
 
   <section class="background" data-size="page">
-    <div class="float">
-  
-<div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Hyunmin Yoon">
-    
+    <article class="member-page">
+  <div class="member-header">
+    <img src="images/photo.jpg" alt="Hyunmin Yoon" class="member-image">
+    <div class="member-meta">
+      <h1>Hyunmin Yoon</h1>
+      
+      
+      
+      
+    </div>
+  </div>
 
-    <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <div class="member-body">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-    
-      <span class="portrait-name">
-        Hyunmin Yoon
-      </span>
-    
+  </div>
+</article>
 
-    
+<style>
+.member-page {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
 
-    
-  </a>
-</div>
+.member-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
 
-<div>
-  
-</div>
+.member-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
 
+.member-meta h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
 
-</div>
+.member-meta p {
+  margin: 0.2rem 0;
+  font-size: 1rem;
+}
 
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-
-
-
-
-
-<p class="center">
-  <a href="/research/?search=%22Hyunmin%20Yoon%22%20">
-    Search for Hyunmin Yoon's papers on the Research page
-  </a>
-</p>
-
-
-
-<!--
-<p class="center">
-  <a href="/blog/?search=Hyunmin%20Yoon">
-    See Hyunmin Yoon's posts on the Blog page
-  </a>
-</p>
--->
+.member-body {
+  line-height: 1.7;
+}
+</style>
   </section>
 
 
