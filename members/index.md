@@ -15,17 +15,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <h2>Professor</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+  {% include list.html data="members" component="portrait" filter="group == 'pi'" %}
 </div>
 
 <h2>Member</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'master'" %}
+  {% include list.html data="members" component="portrait" filter="group == 'master'" %}
 </div>
 
 <h2>Alumni</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+  {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 </div>
 
 {% include section.html background="images/background.jpg" dark=true %}
