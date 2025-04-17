@@ -10,9 +10,9 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+master:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Master Candidate
 
 undergrad:
   icon: fa-solid fa-user-graduate
