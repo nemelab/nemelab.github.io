@@ -15,7 +15,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <h2>Professor</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 </div>
 
 <h2>Member</h2>
