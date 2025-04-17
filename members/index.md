@@ -13,8 +13,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+<h2>Professor</h2>
+<div class="member-section">
+  {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+</div>
+
+<h2>Member</h2>
+<div class="member-section">
+  {% include list.html data="members" component="portrait" filter="role == 'student'" %}
+</div>
+
+<h2>Alumni</h2>
+<div class="member-section">
+  {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+</div>
 
 {% include section.html background="images/background.jpg" dark=true %}
 
