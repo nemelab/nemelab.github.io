@@ -1,10 +1,9 @@
 ---
 name: Hyunmin Yoon
-image: images/photo.jpg
-role: Master Candidate
-group: alum
+image: images/yoon.jpg
+role: master
+group: Master Candidate
 links:
   
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Electrolyte & Next generation Cathodes
