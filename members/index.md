@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <h2>Member</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'student'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'master'" %}
 </div>
 
 <h2>Alumni</h2>
