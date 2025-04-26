@@ -15,7 +15,35 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <h2>Professor</h2>
 <div class="member-section">
-  {% include list.html data="members" component="professor-profile" filter="role == 'principal-investigator'" %}
+  {% for member in site.members %}
+    {% if member.role == 'principal-investigator' %}
+      <div class="professor-card">
+        <a
+          {% if page.slug != member.slug %}
+            href="{{ member.url | relative_url | uri_escape }}"
+          {% endif %}
+          class="professor-card-link"
+          aria-label="{{ member.name | default: "professor link" | regex_strip }}"
+        >
+          <div class="professor-photo">
+            <img
+              src="{{ member.image | relative_url | uri_escape }}"
+              alt="professor photo"
+              loading="lazy"
+              {% include fallback.html %}
+            >
+          </div>
+          <div class="professor-info">
+            <div class="professor-name">{{ member.name }}</div>
+            <div class="professor-title">Principal Investigator</div>
+            <div class="professor-bio">
+              {{ member.content | markdownify }}
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
 
 <h2>Master</h2>
