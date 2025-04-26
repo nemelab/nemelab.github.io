@@ -10,8 +10,7 @@ links:
   
 ---
 
-**2021.03~Present** Assistant Professor, Department of Electronic Materials Engineering,  
-**Kwangwoon University**  
+**2021.03~Present** Assistant Professor, Department of Electronic Materials Engineering, **Kwangwoon University**  
 **2019.09~2021.03** Postdoc. Researcher, **Lawrence Berkeley National Lab.**  
 **2019.03~2019.09** Postdoc. Researcher, **Department of Chemistry, Duke University**  
 **2018.03~2019.03** Senior Researcher, **SAMSUNG SDI**  
