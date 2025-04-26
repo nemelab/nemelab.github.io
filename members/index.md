@@ -48,12 +48,23 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <h2>Master</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'master'" %}
+  {% assign masters = site.members | where: "role", "master" | sort: "order" %}
+  <div class="master-row">
+    {% for member in masters %}
+      {% if forloop.index0 == 3 %}
+        </div><div class="master-row">
+      {% endif %}
+      {% include portrait.html member=member %}
+    {% endfor %}
+  </div>
 </div>
 
 <h2>Undergraduate</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+  {% assign undergrads = site.members | where: "role", "undergrad" | sort: "order" %}
+  {% for member in undergrads %}
+    {% include portrait.html member=member %}
+  {% endfor %}
 </div>
 
 <h2>Alumni</h2>
