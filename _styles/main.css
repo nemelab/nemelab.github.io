@@ -19,7 +19,7 @@ main {
 
 .professor-card-link {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   text-decoration: none;
   color: inherit;
 }
