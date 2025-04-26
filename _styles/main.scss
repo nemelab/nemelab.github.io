@@ -21,13 +21,17 @@ main {
 .professor-card-link {
   display: flex;
   align-items: center;
+  justify-content: flex-start;
   text-decoration: none;
   color: inherit;
 }
 
 .professor-photo img {
+  display: flex;
+  align-items: center;         /* 내부 이미지 세로 중앙 정렬 */
+  justify-content: center;     /* 필요시 가로 중앙 정렬 */
+  height: 100%; 
   width: 220px;
-  height: 280px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
