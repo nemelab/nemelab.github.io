@@ -6,3 +6,73 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+/* Professor 프로필 커스텀 스타일 */
+.professor-card {
+  background: #f8fcfd;
+  border: 2px solid #e2e8ed;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  transition: box-shadow 0.2s;
+}
+
+.professor-card-link {
+  display: flex;
+  align-items: flex-start;
+  text-decoration: none;
+  color: inherit;
+}
+
+.professor-photo img {
+  width: 220px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  background: #fff;
+}
+
+.professor-info {
+  margin-left: 2.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.professor-name {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.professor-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.professor-bio {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+@media (max-width: 700px) {
+  .professor-card-link {
+    flex-direction: column;
+    align-items: center;
+  }
+  .professor-info {
+    margin-left: 0;
+    margin-top: 1.5rem;
+    align-items: center;
+    text-align: center;
+  }
+  .professor-photo img {
+    width: 160px;
+    height: 200px;
+  }
+}
