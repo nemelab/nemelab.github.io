@@ -2,14 +2,12 @@
 ---
 
 <div style="text-align:center;">
-  
-# **NEME LAB**
 
-차세대 배터리 소재 및 전기 화학에 관한 연구실입니다.  
-함께 연구하고 싶거나 관심있는 학생들은 연락주세요.  
-**minkyungkim@kw.ac.kr**
+<h1><b>NEME LAB</b></h1>
 
-{% include section.html %}
+차세대 배터리 소재 및 전기 화학에 관한 연구실입니다.<br>
+함께 연구하고 싶거나 관심있는 학생들은 연락주세요.<br>
+<b>minkyungkim@kw.ac.kr</b>
 
 </div>
 
