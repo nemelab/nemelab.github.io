@@ -4,6 +4,11 @@
   </div>
   <div class="project-card-content">
     <div class="project-card-title">{{ project.title }}</div>
-    <div class="project-card-summary">{{ project.summary }}</div>
+    {% if project.researcher %}
+      <div class="project-card-researcher">researcher: {{ project.researcher }}</div>
+    {% endif %}
+    {% if project.summary %}
+      <div class="project-card-summary">{{ project.summary }}</div>
+    {% endif %}
   </div>
 </a>
