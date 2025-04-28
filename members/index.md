@@ -70,5 +70,3 @@ nav:
 <div class="member-section">
   {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 </div>
-
-{% include grid.html style="square" content=content %}
