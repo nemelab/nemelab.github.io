@@ -43,6 +43,8 @@ collections:
   # generate page for each post
   posts:
     output: true
+  projects:
+    output: true
 
 # jekyll plugins
 plugins:
@@ -72,7 +74,3 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-
-collections:
-  projects:
-    output: true
