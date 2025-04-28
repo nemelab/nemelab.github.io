@@ -7,7 +7,7 @@ nav:
 
 <div style="text-align:center;">
 
-<h1><b>MEMBERS</b></h1>
+<h1><b>PROJECTS</b></h1>
 
 </div>
 
