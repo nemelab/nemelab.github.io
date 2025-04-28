@@ -5,11 +5,12 @@ nav:
   tooltip: About our lab members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Members
+<div style="text-align:center;">
 
-NEME LAB's members
+<h1><b>MEMBERS</b></h1>
 
-{% include section.html %}
+</div>
+
 
 <h2>Professor</h2>
 <div class="member-section">
