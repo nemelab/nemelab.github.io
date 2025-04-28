@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Our LAB's projects
 ---
 
 <div style="text-align:center;">
