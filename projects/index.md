@@ -16,12 +16,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<div class="project-list">
+  {% assign projects = site.projects | sort: "order" %}
+  {% for project in projects %}
+    {% include project-card.html project=project %}
+  {% endfor %}
+</div>
