@@ -2,76 +2,37 @@
 title: Gallery
 nav:
   order: 4
-  tooltip: our lab's picture
+  tooltip: Our LAB's gallery
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Gallery
+<div style="text-align:center;">
+  <h1><b>Gallery</b></h1>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<details>
+  <summary style="font-size:1.5em; font-weight:bold; margin:1em 0;">학회</summary>
+  <div style="display:flex; gap:1em; margin-top:1em;">
+    <div style="text-align:center;">
+      <img src="/images/gallery/conference1.jpg" alt="22추계전기화학회 참석" style="width:180px; height:180px; object-fit:cover; border-radius:8px;">
+      <div>22추계전기화학회 참석</div>
+    </div>
+    <div style="text-align:center;">
+      <img src="/images/gallery/conference2.jpg" alt="22춘계전기화학회 참석" style="width:180px; height:180px; object-fit:cover; border-radius:8px;">
+      <div>22춘계전기화학회 참석</div>
+    </div>
+  </div>
+</details>
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<details>
+  <summary style="font-size:1.5em; font-weight:bold; margin:1em 0;">워크샵</summary>
+  <div style="display:flex; gap:1em; margin-top:1em;">
+    <div style="text-align:center;">
+      <img src="/images/gallery/workshop1.jpg" alt="워크샵1" style="width:180px; height:180px; object-fit:cover; border-radius:8px;">
+      <div>워크샵1</div>
+    </div>
+    <div style="text-align:center;">
+      <img src="/images/gallery/workshop2.jpg" alt="워크샵2" style="width:180px; height:180px; object-fit:cover; border-radius:8px;">
+      <div>워크샵2</div>
+    </div>
+  </div>
+</details>
