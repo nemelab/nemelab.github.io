@@ -5,11 +5,15 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+<div style="text-align:center;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<h1><b>Contact</b></h1>
+
+</div>
+
+열정넘치는 학부참여/석박사 연구원을 찾고 있습니다!
+차세대 배터리 소재 및 전기화학 연구에 관심있으시면 연락주세요!
+**We are looking for passionate undergraduate & graduate students to join our team!**
 
 {%
   include button.html
