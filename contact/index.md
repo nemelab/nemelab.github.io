@@ -11,8 +11,8 @@ nav:
 
 </div>
 
-열정넘치는 학부참여/석박사 연구원을 찾고 있습니다!
-차세대 배터리 소재 및 전기화학 연구에 관심있으시면 연락주세요!
+열정넘치는 학부참여/석박사 연구원을 찾고 있습니다!  
+차세대 배터리 소재 및 전기화학 연구에 관심있으시면 연락주세요!  
 **We are looking for passionate undergraduate & graduate students to join our team!**
 
 {%
