@@ -1,1 +1,1 @@
-Sitemap: https://nemelab.github.io/sitemap.xml
+Sitemap: http://neme.kro.kr/sitemap.xml
