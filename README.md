@@ -5,6 +5,6 @@
 
   # nemelab's Website
 
-  Visit **[nemelab.github.io](https://nemelab.github.io)** 🚀
+  Visit **[neme.kro.kr](http://neme.kro.kr)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
