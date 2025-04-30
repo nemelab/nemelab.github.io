@@ -16,7 +16,7 @@
 {% capture text %}
 
 <div style="text-align:center;">
-우리 연구실의 published paper를 소개합니다!
+우리 연구실의 published paper를 소개합니다!<br>
 </div>
 
 {%
@@ -41,7 +41,7 @@
 {% capture text %}
 
 <div style="text-align:center;">
-연구하고 있는 project를 소개합니다!
+연구하고 있는 project를 소개합니다!<br>
 </div>
 
 {%
@@ -68,7 +68,7 @@
 {% capture text %}
 
 <div style="text-align:center;">
-연구실 member를 소개합니다!
+연구실 member를 소개합니다!<br>
 </div>
 
 {%
