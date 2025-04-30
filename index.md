@@ -32,7 +32,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/논문.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -57,7 +57,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/프로젝트.jpg"
   link="projects"
   title="Our Projects"
   flip=true
