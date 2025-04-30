@@ -15,7 +15,9 @@
 
 {% capture text %}
 
+<div style="text-align:center;">
 publicated research
+</div>
 
 {%
   include button.html
@@ -38,7 +40,9 @@ publicated research
 
 {% capture text %}
 
+<div style="text-align:center;">
 진행하고 있는 project들
+</div>
 
 {%
   include button.html
@@ -63,7 +67,9 @@ publicated research
 
 {% capture text %}
 
+<div style="text-align:center;">
 차세대 배터리 양극/전해질/분리막 연구실 members
+</div>
 
 {%
   include button.html
