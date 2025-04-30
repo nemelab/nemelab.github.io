@@ -16,7 +16,7 @@
 {% capture text %}
 
 <div style="text-align:center;">
-publicated research
+우리 연구실의 published paper를 소개합니다!
 </div>
 
 {%
@@ -41,7 +41,7 @@ publicated research
 {% capture text %}
 
 <div style="text-align:center;">
-진행하고 있는 project들
+연구하고 있는 project를 소개합니다!
 </div>
 
 {%
@@ -68,7 +68,7 @@ publicated research
 {% capture text %}
 
 <div style="text-align:center;">
-차세대 배터리 양극/전해질/분리막 연구실 members
+연구실 member를 소개합니다!
 </div>
 
 {%
