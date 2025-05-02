@@ -1,23 +1,89 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+#- id: doi:10.1371/journal.pcbi.1007128
+#  type: paper
+#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  date: 2020-12-4
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  buttons:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      text: Manuscript Source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#  tags:
+#    - open science
+#    - collaboration
+#  repo: greenelab/meta-review
 
 - id: doi:10.1002/advs.201500366
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/c3eb0d5c-0f8b-4c5a-baf5-7d6b28f03f59/advs.v3.3.cover.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1021/acsaem.0c02278
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+
+- id: doi:10.1021/acs.chemmater.7b00124
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
+
+- id: doi:10.1039/D2TA02492F
+  image: https://pubs.rsc.org/image/article/2022/TA/d2ta02492f/d2ta02492f-f1.gif
+
+- id: doi:10.1039/D1TA10459D
+  image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
+
+- id: doi:10.1016/j.joule.2019.01.002
+  image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
+
+- id: doi:10.1039/D0EE02518F
+  image: https://pubs.rsc.org/image/article/2020/EE/d0ee02518f/d0ee02518f-f1.gif
+
+- id: doi:10.1002/aenm.201800298
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
+
+- id: doi:10.1002/adfm.202109759
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+
+- id: doi:10.1021/acsenergylett.9b02451
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+
+- id: doi:10.3390/ma15062284
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
+
+- id: doi:10.1039/C9TA03070K
+  image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
+
+- id: doi:10.3390/ma15124283
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.2139/ssrn.4997536
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.3390/10.1002/advs.201600524
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.1149/MA2021-01273mtgabs
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.1149/MA2023-015936mtgabs
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+
+- id: doi:10.1149/1945-7111/ad51a9
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+
+- id: doi:10.1007/s40042-024-01107-6
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
+
+- id: doi:10.1007/s40042-024-01170-z
+  image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
+
+- id: doi:10.1016/j.jmrt.2023.03.024
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.1016/j.jpowsour.2022.231692
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.1002/advs.202410114
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+
+- id: doi:10.1021/acsaem.3c00275
+  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
