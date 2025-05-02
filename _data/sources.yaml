@@ -16,7 +16,7 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: https://doi.org/10.1002/advs.201500366
+- id: doi:10.1002/advs.201500366
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/c3eb0d5c-0f8b-4c5a-baf5-7d6b28f03f59/advs.v3.3.cover.jpg
 
 - id: doi:10.7554/eLife.32822
