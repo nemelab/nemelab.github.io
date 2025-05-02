@@ -8,4 +8,4 @@ links:
   email: dorotinokr@gmail.com
 ---
 
-Li-S battery
+Li-S battery Electrolyte & Cathode
