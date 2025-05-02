@@ -16,8 +16,8 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id:  https://doi.org/10.1002/advs.201500366
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/c3eb0d5c-0f8b-4c5a-baf5-7d6b28f03f59/advs.v3.3.cover.jpg
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
