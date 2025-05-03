@@ -41,10 +41,10 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
 
 - id: doi:10.1002/adfm.202109759
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
 
 - id: doi:10.1021/acsenergylett.9b02451
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+  image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
 
 - id: doi:10.3390/ma15062284
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
@@ -53,7 +53,7 @@
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
 
 - id: doi:10.3390/ma15124283
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
 
 - id: doi:10.2139/ssrn.4997536
   image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
