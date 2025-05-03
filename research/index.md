@@ -9,8 +9,6 @@ nav:
   <h1><b>RESEARCH</b></h1>
 </div>
 
-{% include section.html %}
-
 ## Highlighted
 
 {% assign latest_citation = site.data.citations | sort: "date" | reverse | first %}
