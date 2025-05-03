@@ -1,5 +1,5 @@
 ---
-name: Donghee Lee
+name: Dong-hee Lee
 image: images/이동휘.jpg
 role: alumni
 group: alumni
