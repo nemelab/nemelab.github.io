@@ -138,7 +138,7 @@
   publisher: Advanced Functional Materials
   date: '2021-11-12'
   link: https://doi.org/gp2pzv
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsenergylett.9b02451
@@ -151,7 +151,7 @@
   publisher: ACS Energy Letters
   date: '2019-12-13'
   link: https://doi.org/g9g66j
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+  image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/ma15062284
@@ -210,7 +210,7 @@
   publisher: Materials
   date: '2022-06-17'
   link: https://doi.org/g9g66n
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.4997536
