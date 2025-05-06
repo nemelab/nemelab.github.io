@@ -11,8 +11,11 @@ nav:
 
 ## Highlighted
 
-{% assign latest_citation = site.data.citations | sort: "date" | reverse | first %}
-{% include citation.html citation=latest_citation style="rich" %}
+{%
+  include citation.html
+  lookup="doi:10.1002/advs.202410114"
+  style="rich"
+%}
 
 {% include section.html %}
 
