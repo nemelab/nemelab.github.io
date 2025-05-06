@@ -11,7 +11,7 @@
   publisher: Advanced Science
   date: '2015-12-29'
   link: https://doi.org/f3kg6g
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/c3eb0d5c-0f8b-4c5a-baf5-7d6b28f03f59/advs.v3.3.cover.jpg
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsaem.0c02278
@@ -231,47 +231,6 @@
   image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1002/advs.201600524
-  title: "Fast\u2010Rate Capable Electrode Material with Higher Energy Density than\
-    \ LiFePO<sub>4</sub> : 4.2V LiVPO<sub>4</sub>F Synthesized by Scalable Single\u2010\
-    Step Solid\u2010State Reaction"
-  authors:
-  - Minkyung Kim
-  - Seongsu Lee
-  - Byoungwoo Kang
-  publisher: Advanced Science
-  date: '2017-01-18'
-  link: https://doi.org/f3txtj
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1149/MA2021-01273mtgabs
-  title: Revealing Relationships between Surface Facets and Performance of LiNiO<sub>2</sub>
-    Cathodes
-  authors:
-  - Minkyung Kim
-  - Guoying Chen
-  publisher: ECS Meeting Abstracts
-  date: '2021-05-30'
-  link: https://doi.org/g9g66q
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1149/MA2023-015936mtgabs
-  title: "Simple and Scalable Synthesis Method of \u03B3-NaTiOPO<sub>4 </sub>for Sodium\
-    \ Ion Batteries in Aqueous and Non-Aqueous Electrolytes"
-  authors:
-  - Doyoub Kim
-  - Heetaek Park
-  - Maxim Avdeev
-  - Minkyung Kim
-  - Byoungwoo Kang
-  publisher: ECS Meeting Abstracts
-  date: '2023-08-28'
-  link: https://doi.org/g9g66r
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1149/1945-7111/ad51a9
   title: "Enhancing Cycle Stability via Discharge Voltage Regulation in Li\u2013S\
     \ Batteries: Impact of the Lower Cutoff Voltage on Electrochemical Stability"
@@ -281,7 +240,7 @@
   publisher: Journal of The Electrochemical Society
   date: '2024-06-03'
   link: https://doi.org/g8p9jr
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+  image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40042-024-01107-6
@@ -306,7 +265,7 @@
   publisher: Journal of the Korean Physical Society
   date: '2024-06-07'
   link: https://doi.org/g9g66s
-  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40042-024-01107-6/MediaObjects/40042_2024_1107_Fig7_HTML.png?
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40042-024-01170-z
@@ -335,7 +294,7 @@
   publisher: Journal of the Korean Physical Society
   date: '2024-09-04'
   link: https://doi.org/g9g66t
-  image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40042-024-01170-z/MediaObjects/40042_2024_1170_Fig1_HTML.png?
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jmrt.2023.03.024
@@ -356,7 +315,7 @@
   publisher: Journal of Materials Research and Technology
   date: '2023-05-01'
   link: https://doi.org/g9g66v
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2022.231692
@@ -371,7 +330,7 @@
   publisher: Journal of Power Sources
   date: '2022-09-01'
   link: https://doi.org/g9g66w
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202410114
@@ -389,7 +348,7 @@
   publisher: Advanced Science
   date: '2024-10-23'
   link: https://doi.org/g9g66x
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsaem.3c00275
@@ -405,6 +364,6 @@
   publisher: ACS Applied Energy Materials
   date: '2023-05-03'
   link: https://doi.org/g9g66z
-  image: https://www.mdpi.com/materials/materials-15-04283/article_deploy/html/images/materials-15-04283-g001-550.jpg
+  image: https://pubs.acs.org/cms/10.1021/acsaem.3c00275/asset/images/medium/ae3c00275_0007.gif
   plugin: sources.py
   file: sources.yaml
