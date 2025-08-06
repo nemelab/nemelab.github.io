@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/advs.202503476
+  title: Enhancing Cycle Stability in LiNiO<sub>2</sub> with Phase transition suppression
+    via Crystalline Disordered Surface Layer
+  authors:
+  - Sooyeon Choi
+  - "Dong\u2010hee Lee"
+  - Yonghyeon Kwon
+  - Maxim Avdeev
+  - Seok Hyun Song
+  - Minki Kim
+  - Sehyun Kim
+  - "Seung\u2010yong Lee"
+  - Hyungsub Kim
+  - Minkyung Kim
+  publisher: Advanced Science
+  date: '2025-07-18'
+  link: https://doi.org/g9v9rx
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/advs.201500366
   title: "Fast\u2010Rate Capable Electrode Material with Higher Energy Density than\
     \ LiFePO<sub>4</sub>: 4.2V LiVPO<sub>4</sub>F Synthesized by Scalable Single\u2010\
