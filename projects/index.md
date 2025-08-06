@@ -11,9 +11,5 @@ nav:
 
 </div>
 
-<div class="project-list">
-  {% assign projects = site.projects | sort: "order" %}
-  {% for project in projects %}
-    {% include project-card.html project=project %}
-  {% endfor %}
-</div>
+## Study on improving stability and energy density of cathode materials
+{% include figure.html image="images/project1.png" width="100%" %}
