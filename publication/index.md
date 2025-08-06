@@ -6,7 +6,7 @@ nav:
 ---
 
 <div style="text-align:center;">
-  <h1><b>RESEARCH</b></h1>
+  <h1><b>Publication</b></h1>
 </div>
 
 ## Highlighted
