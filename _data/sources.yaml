@@ -16,6 +16,18 @@
 #    - collaboration
 #  repo: greenelab/meta-review
 
+- title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via Crystalline Disordered Surface Layer
+  authors:
+    - "**Sooyeon Choi**"
+    - "**Dong-hee Lee**"
+    - "**Yonghyeon Kwon**"
+    - Maxim Avdeev, Seok Hyun Song, Minki Kim, Sehyun Kim, Seung-yong Lee, Hyungsub Kim,
+    - "**Minkyung Kim***"
+  publisher: Advanced Science
+  date: 2025-07-18
+  link: https://doi.org/10.1002/advs.202503476
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+
 - title: Some Publication Title
   authors:
     - "**Steve McQueen**"
@@ -23,66 +35,195 @@
   publisher: bioRxiv
   date: 2021-01-01
   link: biorxiv.org/1234
-  
-- id: doi:10.1002/advs.202503476
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
-
 - id: doi:10.1002/advs.201500366
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1021/acsaem.0c02278
   image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1021/acs.chemmater.7b00124
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1039/D2TA02492F
   image: https://pubs.rsc.org/image/article/2022/TA/d2ta02492f/d2ta02492f-f1.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1039/D1TA10459D
   image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1016/j.joule.2019.01.002
   image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1039/D0EE02518F
   image: https://pubs.rsc.org/image/article/2020/EE/d0ee02518f/d0ee02518f-f1.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1002/aenm.201800298
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1002/adfm.202109759
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1021/acsenergylett.9b02451
   image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.3390/ma15062284
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1039/C9TA03070K
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.3390/ma15124283
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1149/1945-7111/ad51a9
   image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1007/s40042-024-01107-6
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01107-6/MediaObjects/40042_2024_1107_Fig7_HTML.png?as=webp
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1007/s40042-024-01170-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01170-z/MediaObjects/40042_2024_1170_Fig1_HTML.png?as=webp
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1016/j.jmrt.2023.03.024
   image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1016/j.jpowsour.2022.231692
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1002/advs.202410114
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
 - id: doi:10.1021/acsaem.3c00275
   image: https://pubs.acs.org/cms/10.1021/acsaem.3c00275/asset/images/medium/ae3c00275_0007.gif
