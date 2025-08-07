@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via
+    Crystalline Disordered Surface Layer
+  authors:
+  - '**Sooyeon Choi**'
+  - '**Dong-hee Lee**'
+  - '**Yonghyeon Kwon**'
+  - Maxim Avdeev, Seok Hyun Song, Minki Kim, Sehyun Kim, Seung-yong Lee, Hyungsub
+    Kim,
+  - '**Minkyung Kim***'
+  publisher: Advanced Science
+  date: '2025-07-18'
+  link: https://doi.org/10.1002/advs.202503476
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+  plugin: sources.py
+  file: sources.yaml
 - title: Some Publication Title
   authors:
   - '**Steve McQueen**'
@@ -7,26 +22,6 @@
   publisher: bioRxiv
   date: '2021-01-01'
   link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/advs.202503476
-  title: Enhancing Cycle Stability in LiNiO<sub>2</sub> with Phase transition suppression
-    via Crystalline Disordered Surface Layer
-  authors:
-  - Sooyeon Choi
-  - "Dong\u2010hee Lee"
-  - Yonghyeon Kwon
-  - Maxim Avdeev
-  - Seok Hyun Song
-  - Minki Kim
-  - Sehyun Kim
-  - "Seung\u2010yong Lee"
-  - Hyungsub Kim
-  - Minkyung Kim
-  publisher: Advanced Science
-  date: '2025-07-18'
-  link: https://doi.org/g9v9rx
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.201500366
@@ -41,6 +36,15 @@
   date: '2015-12-29'
   link: https://doi.org/f3kg6g
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsaem.0c02278
@@ -58,6 +62,15 @@
   image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.chemmater.7b00124
   title: "High Energy Density Polyanion Electrode Material: LiVPO<sub>4</sub>O<sub>1\u2013\
     <i>x</i></sub>F<sub><i>x</i></sub> (<i>x</i> \u2248 0.25) with Tavorite Structure"
@@ -69,6 +82,15 @@
   date: '2017-05-23'
   link: https://doi.org/gbj9nk
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D2TA02492F
@@ -85,6 +107,15 @@
   date: '2022-01-01'
   link: https://doi.org/g9g66d
   image: https://pubs.rsc.org/image/article/2022/TA/d2ta02492f/d2ta02492f-f1.gif
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D1TA10459D
@@ -109,6 +140,15 @@
   image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.joule.2019.01.002
   title: High Rate Li-Ion Batteries with Cation-Disordered Cathodes
   authors:
@@ -126,6 +166,15 @@
   image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/D0EE02518F
   title: Ultrafast kinetics in a phase separating electrode material by forming an
     intermediate phase without reducing the particle size
@@ -138,6 +187,15 @@
   date: '2020-01-01'
   link: https://doi.org/gpm6bb
   image: https://pubs.rsc.org/image/article/2020/EE/d0ee02518f/d0ee02518f-f1.gif
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.201800298
@@ -155,6 +213,15 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/adfm.202109759
   title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
     Modification of Cu Current Collector'
@@ -170,6 +237,15 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acsenergylett.9b02451
   title: 'Multielectron-Capable Li-Rich Polyanion Material with High Operating Voltage:
     Li<sub>5</sub>V<sub>2</sub>PO<sub>4</sub>F<sub>8</sub> for Li-Ion Batteries'
@@ -181,6 +257,15 @@
   date: '2019-12-13'
   link: https://doi.org/g9g66j
   image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/ma15062284
@@ -207,6 +292,15 @@
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C9TA03070K
   title: Understanding the effects of oxygen defects on the redox reaction pathways
     in LiVPO<sub>4</sub>F by combining <i>ab initio</i> calculations with experiments
@@ -219,6 +313,15 @@
   date: '2019-01-01'
   link: https://doi.org/g9g66m
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/ma15124283
@@ -242,6 +345,15 @@
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1149/1945-7111/ad51a9
   title: "Enhancing Cycle Stability via Discharge Voltage Regulation in Li\u2013S\
     \ Batteries: Impact of the Lower Cutoff Voltage on Electrochemical Stability"
@@ -252,6 +364,15 @@
   date: '2024-06-03'
   link: https://doi.org/g8p9jr
   image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40042-024-01107-6
@@ -277,6 +398,15 @@
   date: '2024-06-07'
   link: https://doi.org/g9g66s
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01107-6/MediaObjects/40042_2024_1107_Fig7_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40042-024-01170-z
@@ -308,6 +438,15 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01170-z/MediaObjects/40042_2024_1170_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jmrt.2023.03.024
   title: Impact of annealing on material and electrical characteristics of lithium
     phosphate thin films on silicon carbide
@@ -329,6 +468,15 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2022.231692
   title: "Newly developed \u03B3-NaTiOPO4 by simple solid-state synthesis for anode\
     \ material of Na-ion batteries in both nonaqueous and aqueous electrolytes"
@@ -342,6 +490,15 @@
   date: '2022-09-01'
   link: https://doi.org/g9g66w
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202410114
@@ -360,6 +517,15 @@
   date: '2024-10-23'
   link: https://doi.org/g9g66x
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsaem.3c00275
