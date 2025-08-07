@@ -59,7 +59,9 @@
   authors:
     - Jong Hyeong Lim, Jong Ho Won, Mun Kyoung Kim, Dae Soo Jung
     - "**Minkyung Kim**"
-    - Chulhwan Park, Sang-Mo Koo, Jong-Min Oh, Hyung Mo Jeong, Hiesang Sohn*, Weon Ho Shin*
+    - Chulhwan Park, Sang-Mo Koo, Jong-Min Oh, Hyung Mo Jeong
+    - "Hiesang Sohn*"
+    - "Weon Ho Shin*"
   image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
 
 - id: doi:10.1016/j.joule.2019.01.002
@@ -86,7 +88,7 @@
   authors:
     - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
     - "**Minkyung Kim***"
-    - Byoungwoo Kang*
+    - "Byoungwoo Kang*"
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
 
 - id: doi:10.1021/acsenergylett.9b02451
@@ -99,7 +101,9 @@
   authors:
     - Yong-Jae Jung, Hyun-Sik Kim, Jong Ho Won
     - "**Minkyung Kim**"
-    - Minji Kang, Eun Young Jang, Nguyen Vu Binh, Sang-il Kim, Kyoung-Seok Moon, Jong Wook Roh, Woo Hyun Nam, Sang-Mo Koo, Jong-Min Oh, Jung Young Cho*, Weon Ho Shin*
+    - Minji Kang, Eun Young Jang, Nguyen Vu Binh, Sang-il Kim, Kyoung-Seok Moon, Jong Wook Roh, Woo Hyun Nam, Sang-Mo Koo, Jong-Min Oh
+    - "Jung Young Cho*"
+    - "Weon Ho Shin*"
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
 
 - id: doi:10.1039/C9TA03070K
@@ -113,7 +117,9 @@
   authors:
     - Da-Eun Hyun, Jwa-Bin Jeon, Yeon-Sook Lee, Yong-Nam Kim
     - "**Minkyung Kim**"
-    - Seunghoon Ko, Sang-Mo Koo, Weon Ho Shin, Chulhwan Park, Dong-Won Lee*, Jong-Min Oh*
+    - Seunghoon Ko, Sang-Mo Koo, Weon Ho Shin, Chulhwan Park
+    - "Dong-Won Lee*"
+    - "Jong-Min Oh*"
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
 
 - id: doi:10.1149/1945-7111/ad51a9
@@ -133,7 +139,7 @@
   authors:
     - Doyoub Kim, Heetaek Park, Maxim Avdeev
     - "**Minkyung Kim***"
-    - Byoungwoo Kang*
+    - "Byoungwoo Kang*"
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
 
 - id: doi:10.1002/advs.202410114
