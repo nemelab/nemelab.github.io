@@ -31,84 +31,40 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1021/acsaem.0c02278
   title: "Understanding Reactivities of Ni-Rich Li[Ni<sub><i>x</i></sub>Mn<sub><i>y</i></sub>Co<sub>1\u2013\
     <i>x</i>\u2013<i>y</i></sub>]O<sub>2</sub> Single-Crystal Cathode Materials"
   authors:
-  - Minkyung Kim
-  - Jian Zhu
-  - Linze Li
-  - Chongmin Wang
-  - Guoying Chen
+  - '**Minkyung Kim**'
+  - Jian Zhu, Linze Li, Chongmin Wang, Guoying Chen*
   publisher: ACS Applied Energy Materials
   date: '2020-11-23'
   link: https://doi.org/g9g66c
   image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1021/acs.chemmater.7b00124
   title: "High Energy Density Polyanion Electrode Material: LiVPO<sub>4</sub>O<sub>1\u2013\
     <i>x</i></sub>F<sub><i>x</i></sub> (<i>x</i> \u2248 0.25) with Tavorite Structure"
   authors:
-  - Minkyung Kim
-  - Seongsu Lee
-  - Byoungwoo Kang
+  - '**Minkyung Kim**'
+  - Seongsu Lee, Byoungwoo Kang*
   publisher: Chemistry of Materials
   date: '2017-05-23'
   link: https://doi.org/gbj9nk
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1039/D2TA02492F
   title: Improving LiNiO<sub>2</sub> cathode performance through particle design and
     optimization
   authors:
-  - Minkyung Kim
-  - Lianfeng Zou
-  - Seoung-Bum Son
-  - Ira D. Bloom
-  - Chongmin Wang
-  - Guoying Chen
+  - '**Minkyung Kim**'
+  - Lianfeng Zou, Seoung-Bum Son, Ira D. Bloom, Chongmin Wang, Guoying Chen*
   publisher: Journal of Materials Chemistry A
   date: '2022-01-01'
   link: https://doi.org/g9g66d
   image: https://pubs.rsc.org/image/article/2022/TA/d2ta02492f/d2ta02492f-f1.gif
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D1TA10459D
@@ -116,79 +72,38 @@
     on nitrogen-rich graphene of fast charge transport for sustainable aqueous energy
     storage
   authors:
-  - Jong Hyeong Lim
-  - Jong Ho Won
-  - Mun Kyoung Kim
-  - Dae Soo Jung
-  - Minkyung Kim
-  - Chulhwan Park
-  - Sang-Mo Koo
-  - Jong-Min Oh
-  - Hyung Mo Jeong
-  - Hiesang Sohn
-  - Weon Ho Shin
+  - Jong Hyeong Lim, Jong Ho Won, Mun Kyoung Kim, Dae Soo Jung
+  - '**Minkyung Kim**'
+  - Chulhwan Park, Sang-Mo Koo, Jong-Min Oh, Hyung Mo Jeong, Hiesang Sohn*, Weon Ho
+    Shin*
   publisher: Journal of Materials Chemistry A
   date: '2022-01-01'
   link: https://doi.org/g9g66f
   image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.joule.2019.01.002
   title: High Rate Li-Ion Batteries with Cation-Disordered Cathodes
   authors:
-  - Minkyu Kim
-  - Donghoon Kim
-  - Yuren Wen
-  - Minkyung Kim
-  - Hyun Myung Jang
-  - Hong Li
-  - Lin Gu
-  - Byoungwoo Kang
+  - Minkyu Kim, Donghoon Kim, Yuren Wen
+  - '**Minkyung Kim**'
+  - Hyun Myung Jang, Hong Li, Lin Gu, Byoungwoo Kang*
   publisher: Joule
   date: '2019-04-01'
   link: https://doi.org/g9g66g
   image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1039/D0EE02518F
   title: Ultrafast kinetics in a phase separating electrode material by forming an
     intermediate phase without reducing the particle size
   authors:
-  - Minkyung Kim
-  - Mihee Jeong
-  - Won-Sub Yoon
-  - Byoungwoo Kang
+  - '**Minkyung Kim**'
+  - Mihee Jeong, Won-Sub Yoon, Byoungwoo Kang*
   publisher: Energy &amp; Environmental Science
   date: '2020-01-01'
   link: https://doi.org/gpm6bb
   image: https://pubs.rsc.org/image/article/2020/EE/d0ee02518f/d0ee02518f-f1.gif
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.201800298
@@ -196,102 +111,50 @@
     LiFeSO<sub>4</sub>F
   authors:
   - Minkyu Kim
-  - Minkyung Kim
-  - Heetaek Park
-  - Hong Li
-  - Byoungwoo Kang
+  - '**Minkyung Kim**'
+  - Heetaek Park, Hong Li, Byoungwoo Kang*
   publisher: Advanced Energy Materials
   date: '2018-05-28'
   link: https://doi.org/g9g66h
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/adfm.202109759
   title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
     Modification of Cu Current Collector'
   authors:
-  - Yongjo Jung
-  - Seoungkyu Park
-  - Jin Kon Kim
-  - Minkyung Kim
-  - Byoungwoo Kang
+  - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
+  - '**Minkyung Kim***'
+  - Byoungwoo Kang*
   publisher: Advanced Functional Materials
   date: '2021-11-12'
   link: https://doi.org/gp2pzv
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1021/acsenergylett.9b02451
   title: 'Multielectron-Capable Li-Rich Polyanion Material with High Operating Voltage:
     Li<sub>5</sub>V<sub>2</sub>PO<sub>4</sub>F<sub>8</sub> for Li-Ion Batteries'
   authors:
-  - Minkyung Kim
-  - Maxim Avdeev
-  - Byoungwoo Kang
+  - '**Minkyung Kim**'
+  - Maxim Avdeev, Byoungwoo Kang*
   publisher: ACS Energy Letters
   date: '2019-12-13'
   link: https://doi.org/g9g66j
   image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3390/ma15062284
   title: Thermoelectric Properties of Cu2Te Nanoparticle Incorporated N-Type Bi2Te2.7Se0.3
   authors:
-  - Yong-Jae Jung
-  - Hyun-Sik Kim
-  - Jong Ho Won
-  - Minkyung Kim
-  - Minji Kang
-  - Eun Young Jang
-  - Nguyen Vu Binh
-  - Sang-il Kim
-  - Kyoung-Seok Moon
-  - Jong Wook Roh
-  - Woo Hyun Nam
-  - Sang-Mo Koo
-  - Jong-Min Oh
-  - Jung Young Cho
-  - Weon Ho Shin
+  - Yong-Jae Jung, Hyun-Sik Kim, Jong Ho Won
+  - '**Minkyung Kim**'
+  - Minji Kang, Eun Young Jang, Nguyen Vu Binh, Sang-il Kim, Kyoung-Seok Moon, Jong
+    Wook Roh, Woo Hyun Nam, Sang-Mo Koo, Jong-Min Oh, Jung Young Cho*, Weon Ho Shin*
   publisher: Materials
   date: '2022-03-19'
   link: https://doi.org/g9g66k
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C9TA03070K
@@ -299,238 +162,89 @@
     in LiVPO<sub>4</sub>F by combining <i>ab initio</i> calculations with experiments
   authors:
   - Heetaek Park
-  - Minkyung Kim
-  - ShinYoung Kang
-  - Byoungwoo Kang
+  - '**Minkyung Kim**'
+  - ShinYoung Kang*, Byoungwoo Kang*
   publisher: Journal of Materials Chemistry A
   date: '2019-01-01'
   link: https://doi.org/g9g66m
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3390/ma15124283
   title: "Fabrication of Large-Area Mullite\u2013Cordierite Composite Substrates for\
     \ Semiconductor Probe Cards and Enhancement of Their Reliability"
   authors:
-  - Da-Eun Hyun
-  - Jwa-Bin Jeon
-  - Yeon-Sook Lee
-  - Yong-Nam Kim
-  - Minkyung Kim
-  - Seunghoon Ko
-  - Sang-Mo Koo
-  - Weon Ho Shin
-  - Chulhwan Park
-  - Dong-Won Lee
-  - Jong-Min Oh
+  - Da-Eun Hyun, Jwa-Bin Jeon, Yeon-Sook Lee, Yong-Nam Kim
+  - '**Minkyung Kim**'
+  - Seunghoon Ko, Sang-Mo Koo, Weon Ho Shin, Chulhwan Park, Dong-Won Lee*, Jong-Min
+    Oh*
   publisher: Materials
   date: '2022-06-17'
   link: https://doi.org/g9g66n
   image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1149/1945-7111/ad51a9
   title: "Enhancing Cycle Stability via Discharge Voltage Regulation in Li\u2013S\
     \ Batteries: Impact of the Lower Cutoff Voltage on Electrochemical Stability"
   authors:
-  - Changyu Yeo
-  - Minkyung Kim
+  - '**Changyu Yeo**'
+  - '**Minkyung Kim***'
   publisher: Journal of The Electrochemical Society
   date: '2024-06-03'
   link: https://doi.org/g8p9jr
   image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s40042-024-01107-6
-  title: HVPE growth of Si crystal with topological chiral morphology
-  authors:
-  - Suhyun Mun
-  - Seonwoo Park
-  - Min Yang
-  - Won Bae Cho
-  - Young Tea Chun
-  - Hyung Soo Ahn
-  - Jae Hak Lee
-  - Kyoung Hwa Kim
-  - Hunsoo Jeon
-  - Won Jae Lee
-  - Myeong-Cheol Shin
-  - Jong-Min Oh
-  - Weon Ho Shin
-  - Minkyung Kim
-  - Sang-Mo Koo
-  - Ye Hwan Kang
-  publisher: Journal of the Korean Physical Society
-  date: '2024-06-07'
-  link: https://doi.org/g9g66s
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01107-6/MediaObjects/40042_2024_1107_Fig7_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s40042-024-01170-z
-  title: Advanced HVPE sublimation sandwich method for Si layer formation on SiC substrates
-  authors:
-  - Seonwoo Park
-  - Kyoung Hwa Kim
-  - Suhyun Mun
-  - Injun Jeon
-  - Seon Jin Mun
-  - Young-Hun Cho
-  - Jeongbin Heo
-  - Min Yang
-  - Hyung Soo Ahn
-  - Hunsoo Jeon
-  - Jae Hak Lee
-  - Kwanghee Jung
-  - Won Jae Lee
-  - Geon-Hee Lee
-  - Myeong-Cheol Shin
-  - Jong-Min Oh
-  - Weon Ho Shin
-  - Minkyung Kim
-  - Sang-Mo Koo
-  - Ye Hwan Kang
-  publisher: Journal of the Korean Physical Society
-  date: '2024-09-04'
-  link: https://doi.org/g9g66t
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40042-024-01170-z/MediaObjects/40042_2024_1170_Fig1_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.jmrt.2023.03.024
   title: Impact of annealing on material and electrical characteristics of lithium
     phosphate thin films on silicon carbide
   authors:
-  - Hyung-Jin Lee
-  - Soo-Young Moon
-  - Hee-Jae Lee
-  - Dong-Wook Byun
-  - Seung-Woo Jung
-  - Michael A. Schweitz
-  - Minkyung Kim
-  - Jong-Min Oh
-  - Weon Ho Shin
-  - Chulhwan Park
-  - Sang-Mo Koo
+  - Hyung-Jin Lee, Soo-Young Moon, Hee-Jae Lee, Dong-Wook Byun, Seung-Woo Jung, Michael
+    A. Schweitz
+  - '**Minkyung Kim**'
+  - Jong-Min Oh, Weon Ho Shin, Chulhwan Park, Sang-Mo Koo*
   publisher: Journal of Materials Research and Technology
   date: '2023-05-01'
   link: https://doi.org/g9g66v
   image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2022.231692
   title: "Newly developed \u03B3-NaTiOPO4 by simple solid-state synthesis for anode\
     \ material of Na-ion batteries in both nonaqueous and aqueous electrolytes"
   authors:
-  - Doyoub Kim
-  - Heetaek Park
-  - Maxim Avdeev
-  - Minkyung Kim
-  - Byoungwoo Kang
+  - Doyoub Kim, Heetaek Park, Maxim Avdeev
+  - '**Minkyung Kim***'
+  - Byoungwoo Kang*
   publisher: Journal of Power Sources
   date: '2022-09-01'
   link: https://doi.org/g9g66w
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/advs.202410114
   title: "Achieving High Stability and Capacity in Micron\u2010Sized Conversion\u2010\
     Type Iron Fluoride Li\u2010Metal Batteries"
   authors:
-  - Chiwon Choi
-  - Hyunmin Yoon
-  - Seungyeop Kang
-  - Dong Il Kim
-  - John Hong
-  - Minjeong Shin
-  - "Dong\u2010Joo Yoo"
-  - Minkyung Kim
+  - _**Chiwon Choi#**_
+  - _**Hyunmin Yoon#**_
+  - Seungyeop Kang, Dong Il Kim, John Hong, Minjeong Shin, Dong-Joo Yoo
+  - '**Minkyung Kim***'
   publisher: Advanced Science
   date: '2024-10-23'
   link: https://doi.org/g9g66x
+  description: _(# Equally contribuited)_
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsaem.3c00275
   title: Regulating Single-Crystal LiNiO<sub>2</sub> Size and Surface Coating toward
     a High-Capacity Cathode for Lithium-Ion Batteries
   authors:
-  - Dong-hee Lee
-  - Maxim Avdeev
-  - Dong-il Kim
-  - Weon Ho Shin
-  - John Hong
-  - Minkyung Kim
+  - '**Dong-hee Lee**'
+  - Maxim Avdeev, Dong-il Kim, Weon Ho Shin, John Hong
+  - '**Minkyung Kim***'
   publisher: ACS Applied Energy Materials
   date: '2023-05-03'
   link: https://doi.org/g9g66z
