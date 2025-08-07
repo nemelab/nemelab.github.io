@@ -18,10 +18,10 @@
 
 - title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via Crystalline Disordered Surface Layer
   authors:
-    - "**Sooyeon Choi#**"
-    - "**Dong-hee Lee#**"
+    - _"**Sooyeon Choi#**"_
+    - _"**Dong-hee Lee#**"_
     - "**Yonghyeon Kwon**"
-    - Maxim Avdeev, Seok Hyun Song, Minki Kim, Sehyun Kim, Seung-yong Lee, Hyungsub Kim,
+    - Maxim Avdeev, Seok Hyun Song, Minki Kim, Sehyun Kim, Seung-yong Lee, Hyungsub Kim
     - "**Minkyung Kim***"
   description: _(# Equally contribuited)_
   publisher: Advanced Science
@@ -30,14 +30,10 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
   id: doi:10.1002/advs.202503476
 
-- title: Some Publication Title
-  authors:
-    - "**Steve McQueen**"
-    - Lightning McQueen
-  publisher: bioRxiv
-  date: 2021-01-01
-  link: biorxiv.org/1234
 - id: doi:10.1002/advs.201500366
+  authors:
+    - "**Minkyung Kim**", Seongsu Lee
+    - Byoungwoo Kang
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
 
 - title: Some Publication Title
