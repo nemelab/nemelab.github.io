@@ -18,15 +18,17 @@
 
 - title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via Crystalline Disordered Surface Layer
   authors:
-    - "**Sooyeon Choi**"
-    - "**Dong-hee Lee**"
+    - "**Sooyeon Choi#**"
+    - "**Dong-hee Lee#**"
     - "**Yonghyeon Kwon**"
     - Maxim Avdeev, Seok Hyun Song, Minki Kim, Sehyun Kim, Seung-yong Lee, Hyungsub Kim,
     - "**Minkyung Kim***"
+  description: _(# Equally contribuited)_
   publisher: Advanced Science
   date: 2025-07-18
   link: https://doi.org/10.1002/advs.202503476
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+  id: doi:10.1002/advs.202503476
 
 - title: Some Publication Title
   authors:
