@@ -47,6 +47,7 @@ collections:
     output: true
 
 # jekyll plugins
+url: "https://nemelab.github.io"
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
