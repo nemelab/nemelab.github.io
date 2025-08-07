@@ -110,7 +110,8 @@
   authors:
     - Heetaek Park
     - "**Minkyung Kim**"
-    - ShinYoung Kang*, Byoungwoo Kang*
+    - ShinYoung Kang\*
+    - Byoungwoo Kang\*
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
 
 - id: doi:10.3390/ma15124283
