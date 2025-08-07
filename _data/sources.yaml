@@ -32,7 +32,8 @@
 
 - id: doi:10.1002/advs.201500366
   authors:
-    - "**Minkyung Kim**", Seongsu Lee
+    - "**Minkyung Kim**"
+    - Seongsu Lee
     - Byoungwoo Kang*
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
 
