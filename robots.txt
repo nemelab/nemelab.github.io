@@ -1,1 +1,3 @@
+User-agent: *
+Allow: /
 Sitemap: https://nemelab.github.io/sitemap.xml
