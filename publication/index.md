@@ -13,7 +13,7 @@ nav:
 
 {%
   include citation.html
-  lookup="doi:10.1002/advs.202410114"
+  lookup="doi:10.1002/advs.202503476"
   style="rich"
 %}
 
