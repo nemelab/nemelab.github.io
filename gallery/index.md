@@ -30,6 +30,12 @@ nav:
     </a>
     <div>25 춘계전기화학회 참석</div>
   </div>
+  <div style="text-align:center;">
+    <a href="/images/gallery/25 전지기술심포지엄.jpg" data-lightbox="gallery-2025" data-title="25 전지기술심포지엄">
+      <img src="/images/gallery/25 전지기술심포지엄.jpg" alt="25 전지기술심포지엄" style="width:180px; height:180px; object-fit:cover; border-radius:8px;">
+    </a>
+    <div>25 전지기술심포지엄</div>
+  </div>
 </div>
 </details>
 
