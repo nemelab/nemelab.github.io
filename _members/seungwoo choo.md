@@ -1,9 +1,9 @@
 ---
 name: Seungwoo Choo
 image: images/추승우 사진.jpg
-description: master
-role: Master Candidate
-order : 1
+role: master
+group: Master Candidate
+order : 5
 links:
   email: dorotinokr@gmail.com
 ---
