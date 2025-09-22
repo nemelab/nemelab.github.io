@@ -8,6 +8,13 @@
   date: 2025-09-11
   image: https://ars.els-cdn.com/content/image/X13858947.jpg
 
+- id: doi:10.1002/adfm.202109759
+  authors:
+    - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
+    - "**Minkyung Kim***"
+    - Byoungwoo Kang\*
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
+
 - title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via Crystalline Disordered Surface Layer
   authors:
     - "_**Sooyeon Choi#**_"
@@ -75,13 +82,6 @@
     - "**Minkyung Kim**"
     - Heetaek Park, Hong Li, Byoungwoo Kang*
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
-
-- id: doi:10.1002/adfm.202109759
-  authors:
-    - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
-    - "**Minkyung Kim***"
-    - Byoungwoo Kang\*
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
 
 - id: doi:10.1021/acsenergylett.9b02451
   authors:
