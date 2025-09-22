@@ -11,6 +11,19 @@
   image: https://ars.els-cdn.com/content/image/X13858947.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/adfm.202109759
+  title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
+    Modification of Cu Current Collector'
+  authors:
+  - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
+  - '**Minkyung Kim***'
+  - Byoungwoo Kang\*
+  publisher: Advanced Functional Materials
+  date: '2021-11-12'
+  link: https://doi.org/gp2pzv
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/advs.202503476
   title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via
     Crystalline Disordered Surface Layer
@@ -129,19 +142,6 @@
   date: '2018-05-28'
   link: https://doi.org/g9g66h
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/adfm.202109759
-  title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
-    Modification of Cu Current Collector'
-  authors:
-  - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
-  - '**Minkyung Kim***'
-  - Byoungwoo Kang\*
-  publisher: Advanced Functional Materials
-  date: '2021-11-12'
-  link: https://doi.org/gp2pzv
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsenergylett.9b02451
