@@ -1,5 +1,6 @@
 ---
 title: publication
+description: Publications from NEME lab
 nav:
   order: 3
   tooltip: Published works
