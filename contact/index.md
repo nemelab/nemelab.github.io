@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: contact NEME Lab
+description: contact with the NEME lab
 nav:
   order: 5
   tooltip: Email, address, and location
