@@ -1,5 +1,6 @@
 ---
 title: Projects
+description: Projects at NEME Lab
 nav:
   order: 2
   tooltip: Our LAB's projects
