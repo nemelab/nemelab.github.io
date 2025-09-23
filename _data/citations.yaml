@@ -1,14 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: Suppressing Surface and Bulk Degradation of Single-Crystal LiNiO2 through
-    Additive-Driven Interfacial Stabilization
+- id: doi:10.1016/j.cej.2025.168405
+  title: Suppressing surface and bulk degradation of single-crystal LiNiO2 through
+    additive-driven interfacial stabilization
   authors:
-  - _**Sooyeon Choi**_
+  - '**Sooyeon Choi**'
+  - '**Giho Shin**'
+  - '**Dong-Hee Lee**'
+  - Jinseo Kim, Chan young Lee
+  - Jimin Oh\*
   - '**Minkyung Kim***'
-  description: Accepted
   publisher: Chemical Engineering Journal
-  date: '2025-09-11'
-  image: https://ars.els-cdn.com/content/image/X13858947.jpg
+  date: '2025-11-01'
+  link: https://doi.org/g94hzj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894725092472-gr5_lrg.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202109759
