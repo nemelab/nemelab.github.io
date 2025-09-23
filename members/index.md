@@ -1,5 +1,6 @@
 ---
 title: Members
+description: NEME lab members
 nav:
   order: 1
   tooltip: About our lab members
