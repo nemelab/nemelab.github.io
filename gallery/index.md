@@ -1,5 +1,6 @@
 ---
 title: Gallery
+description: Photo of the NEME lab
 nav:
   order: 4
   tooltip: Our LAB's gallery
