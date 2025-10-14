@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
-  <head>
-  {% include head.html %}
-   <!-- Lightbox2 CSS/JS 추가 시작 -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
-    <!-- Lightbox2 CSS/JS 추가 끝 -->
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title | default: site.title }}</title>
+  {% seo %}
+  <!-- Lightbox2 CSS/JS 추가 시작 -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+  <!-- Lightbox2 CSS/JS 추가 끝 -->
+</head>
   <body>
     {% include header.html %}
     <main>
