@@ -1,8 +1,9 @@
 # site properties and page defaults
-title: Next generation Energy Materials & Electrochemistry Lab.
+title: "Next generation Energy Materials & Electrochemistry Lab."
+author: "nemelab"
 show-subtitle : false
 subtitle: NEME
-description: neme, neme lab, 배터리, 배터리 연구실, 광운대학교
+description: "neme, nemelab, 배터리, 배터리 연구실, 광운대학교, 김민경 교수님"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -25,6 +26,8 @@ defaults:
       path: ""
     values:
       layout: default
+      description: "neme, nemelab, 김민경교수님, 배터리 연구실, 광운대학교"
+      keywords: [neme, nemelab, 김민경교수님, 배터리 연구실]
   # markdown files in /_members
   - scope:
       type: "members"
@@ -54,6 +57,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-seo-tag
 
 # code block syntax highlighting
 highlighter: rouge
