@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: "Next generation Energy Materials & Electrochemistry Lab."
-author: "nemelab"
+title: Next generation Energy Materials & Electrochemistry Lab.
+author: nemelab
 show-subtitle : false
 subtitle: NEME
-description: "neme, nemelab, 배터리, 배터리 연구실, 광운대학교, 김민경 교수님"
+description: neme, nemelab, 배터리, 배터리 연구실, 광운대학교, 김민경 교수님
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
