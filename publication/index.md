@@ -14,7 +14,7 @@ nav:
 
 {%
   include citation.html
-  lookup="doi:10.1002/advs.202503476"
+  lookup="doi:10.1002/adma.202515958"
   style="rich"
 %}
 
