@@ -21,7 +21,7 @@
 
 {%
   include button.html
-  link="research"
+  link="publication"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -33,7 +33,7 @@
 {%
   include feature.html
   image="images/논문.jpg"
-  link="research"
+  link="publication"
   title="Our Research"
   text=text
 %}
