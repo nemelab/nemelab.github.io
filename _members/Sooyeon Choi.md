@@ -2,7 +2,7 @@
 name: Sooyeon Choi
 image: images/최수연 사진.jpg
 role: alumni
-group: alumni
+description: alumni
 links:
   email: ggb4669@gmail.com
   
