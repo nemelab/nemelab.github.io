@@ -1,22 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1002/adma.202521411
-  title: "Unveiling the Hidden Interface: Pre\u2010SEI Governs Li Morphology in Anode\u2010\
-    Free Li Metal Batteries"
-  authors:
-  - _**Hyunmin Yoon#**_
-  - _Daehyun Kim#_
-  - '**Chiwon Choi**'
-  - Jong-Min Oh, Jonghun Shin
-  - Haesun Park\*
-  - '**Minkyung Kim***'
-  publisher: Advanced Materials
-  date: '2026-01-29'
-  link: https://doi.org/hbv5ps
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/4af4f76f-d8ec-4703-b2a4-3d4ea0def3cd/adma72305-fig-0001-m.png
-  description: _(# Equally contribuited)_
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/adma.202515958
   title: "Cosolvent Electrolyte Design for Li\u2013S Batteries: Suppressing the Shuttle\
     \ Effect via Phase Separation"
@@ -33,39 +16,65 @@
   publisher: Advanced Materials
   date: '2025-11-05'
   link: https://doi.org/g99fsw
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/fb5fdf34-1fa8-4dfe-891d-511ee665e062/adma71284-fig-0005-m.jpg
   description: _(# Equally contribuited)_
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.cej.2025.168405
-  title: Suppressing surface and bulk degradation of single-crystal LiNiO2 through
-    additive-driven interfacial stabilization
+- id: doi:10.1038/s41598-026-45492-3
+  title: 'Correction: Miniaturized flexible skin moisture sensor with optimized coil
+    for enhanced wireless power efficiency'
   authors:
-  - '**Sooyeon Choi**'
-  - '**Giho Shin**'
-  - '**Dong-Hee Lee**'
-  - Jinseo Kim, Chan young Lee
-  - Jimin Oh\*
-  - '**Minkyung Kim***'
-  publisher: Chemical Engineering Journal
-  date: '2025-11-01'
-  link: https://doi.org/g94hzj
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894725092472-gr5_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/adfm.202109759
-  title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
-    Modification of Cu Current Collector'
+  - Hyejun Kim
+  - Seongu Kim
+  - Changyu Yeo
+  - Minkyung Kim
+  - Weonho Shin
+  - Jeonghyun Kim
+  publisher: Scientific Reports
+  date: '2026-03-24'
+  link: https://doi.org/hcbn98
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-026-38764-5
+  title: Miniaturized flexible skin moisture sensor with optimized coil for enhanced
+    wireless power efficiency
   authors:
-  - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
+  - Hyejun Kim
+  - Seongu Kim
+  - Changyu Yeo
+  - Minkyung Kim
+  - Weonho Shin
+  - Jeonghyun Kim
+  publisher: Scientific Reports
+  date: '2026-02-10'
+  link: https://doi.org/hcbn99
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adma.202521411
+  title: "Unveiling the Hidden Interface: Pre\u2010SEI Governs Li Morphology in Anode\u2010\
+    Free Li Metal Batteries"
+  authors:
+  - _**Hyunmin Yoon#**_
+  - _Daehyun Kim#_
+  - '**Chiwon Choi**'
+  - Jong-Min Oh, Jonghun Shin
+  - Haesun Park\*
   - '**Minkyung Kim***'
-  - Byoungwoo Kang\*
-  publisher: Advanced Functional Materials
-  date: '2021-11-12'
-  link: https://doi.org/gp2pzv
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
+  publisher: Advanced Materials
+  date: '2026-01-29'
+  link: https://doi.org/hbv5ps
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
   plugin: sources.py
   file: sources.yaml
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/4af4f76f-d8ec-4703-b2a4-3d4ea0def3cd/adma72305-fig-0001-m.png
+  description: _(# Equally contribuited)_
 - id: doi:10.1002/advs.202503476
   title: Enhancing Cycle Stability in LiNiO2 with Phase transition suppression via
     Crystalline Disordered Surface Layer
@@ -79,10 +88,483 @@
   publisher: Advanced Science
   date: '2025-07-18'
   link: https://doi.org/10.1002/advs.202503476
-  description: _(# Equally contribuited)_
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
   plugin: sources.py
   file: sources.yaml
+  description: _(# Equally contribuited)_
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/53c91a8f-8f45-4cc7-989b-973d636f1711/advs70938-fig-0005-m.jpg
+- id: doi:10.1088/1361-6641/ada9c9
+  title: "Realization of a 2H\u2013Si microneedle with an ultrafast growth rate of\
+    \ 6.7 \xD7 10<sup>4</sup> \xC5\xB7s<sup>\u22121</sup>"
+  authors:
+  - Suhyun Mun
+  - Kyoung Hwa Kim
+  - Seonwoo Park
+  - Injun Jeon
+  - Hunsoo Jeon
+  - Jae Hak Lee
+  - Min Yang
+  - Myeong-Cheol Shin
+  - Jong-Min Oh
+  - Weon Ho Shin
+  - Minkyung Kim
+  - Sang-Mo Koo
+  - Won Jae Lee
+  - Chae Ryong Cho
+  - Ye Hwan Kang
+  - Hyung Soo Ahn
+  publisher: Semiconductor Science and Technology
+  date: '2025-02-05'
+  link: https://doi.org/hcbpbb
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ceramint.2025.03.390
+  title: Room-temperature fabrication of high breakdown field Ga2O3 films via aerosol
+    deposition method
+  authors:
+  - Jun-Woo Lee
+  - Ji-Hui Oh
+  - Jin-Ae Kim
+  - Woosup Kim
+  - Sang-Mo Koo
+  - Sunghoon Kim
+  - Minkyung Kim
+  - Chulhwan Park
+  - Weon Ho Shin
+  - Kanghee Won
+  - Jong-Min Oh
+  publisher: Ceramics International
+  date: '2025-08-01'
+  link: https://doi.org/hcbpbc
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cej.2025.168405
+  title: Suppressing surface and bulk degradation of single-crystal LiNiO2 through
+    additive-driven interfacial stabilization
+  authors:
+  - '**Sooyeon Choi**'
+  - '**Giho Shin**'
+  - '**Dong-Hee Lee**'
+  - Jinseo Kim, Chan young Lee
+  - Jimin Oh\*
+  - '**Minkyung Kim***'
+  publisher: Chemical Engineering Journal
+  date: '2025-11-01'
+  link: https://doi.org/g94hzj
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894725092472-gr5_lrg.jpg
+- id: doi:10.1002/advs.202410114
+  title: "Achieving High Stability and Capacity in Micron\u2010Sized Conversion\u2010\
+    Type Iron Fluoride Li\u2010Metal Batteries"
+  authors:
+  - _**Chiwon Choi#**_
+  - _**Hyunmin Yoon#**_
+  - Seungyeop Kang, Dong Il Kim, John Hong, Minjeong Shin, Dong-Joo Yoo
+  - '**Minkyung Kim***'
+  publisher: Advanced Science
+  date: '2024-10-23'
+  link: https://doi.org/g9g66x
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  description: _(# Equally contribuited)_
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
+- id: doi:10.1007/s40042-024-01170-z
+  title: Advanced HVPE sublimation sandwich method for Si layer formation on SiC substrates
+  authors:
+  - Seonwoo Park
+  - Kyoung Hwa Kim
+  - Suhyun Mun
+  - Injun Jeon
+  - Seon Jin Mun
+  - Young-Hun Cho
+  - Jeongbin Heo
+  - Min Yang
+  - Hyung Soo Ahn
+  - Hunsoo Jeon
+  - Jae Hak Lee
+  - Kwanghee Jung
+  - Won Jae Lee
+  - Geon-Hee Lee
+  - Myeong-Cheol Shin
+  - Jong-Min Oh
+  - Weon Ho Shin
+  - Minkyung Kim
+  - Sang-Mo Koo
+  - Ye Hwan Kang
+  publisher: Journal of the Korean Physical Society
+  date: '2024-09-04'
+  link: https://doi.org/g9g66t
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4997536
+  title: Enhanced Cycle Stability by Regulating Crystalline Surface Layer in Linio2
+  authors:
+  - Dong-hee Lee
+  - Sooyeon Choi
+  - Maxim Avdeev
+  - Seok Hyun Song
+  - Minki Kim
+  - Sehyun Kim
+  - Seung-yong Lee
+  - Hyungsub Kim
+  - Minkyung Kim
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g9g66p
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1149/1945-7111/ad51a9
+  title: "Enhancing Cycle Stability via Discharge Voltage Regulation in Li\u2013S\
+    \ Batteries: Impact of the Lower Cutoff Voltage on Electrochemical Stability"
+  authors:
+  - '**Changyu Yeo**'
+  - '**Minkyung Kim***'
+  publisher: Journal of The Electrochemical Society
+  date: '2024-06-03'
+  link: https://doi.org/g8p9jr
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
+- id: doi:10.1007/s40042-024-01107-6
+  title: HVPE growth of Si crystal with topological chiral morphology
+  authors:
+  - Suhyun Mun
+  - Seonwoo Park
+  - Min Yang
+  - Won Bae Cho
+  - Young Tea Chun
+  - Hyung Soo Ahn
+  - Jae Hak Lee
+  - Kyoung Hwa Kim
+  - Hunsoo Jeon
+  - Won Jae Lee
+  - Myeong-Cheol Shin
+  - Jong-Min Oh
+  - Weon Ho Shin
+  - Minkyung Kim
+  - Sang-Mo Koo
+  - Ye Hwan Kang
+  publisher: Journal of the Korean Physical Society
+  date: '2024-06-07'
+  link: https://doi.org/g9g66s
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/sstr.202400321
+  title: Ultrahigh Breakdown Field in Gallium (III) Oxide Dielectric Structure Fabricated
+    by Novel Aerosol Deposition Method
+  authors:
+  - "Jun\u2010Woo Lee"
+  - Jong Ho Won
+  - Woosup Kim
+  - "Jwa\u2010Bin Jeon"
+  - "Myung\u2010Yeon Cho"
+  - Sunghoon Kim
+  - Minkyung Kim
+  - Chulhwan Park
+  - Weon Ho Shin
+  - Kanghee Won
+  - "Sang\u2010Mo Koo"
+  - "Jong\u2010Min Oh"
+  publisher: Small Structures
+  date: '2024-08-21'
+  link: https://doi.org/hcbpbd
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmrt.2023.03.024
+  title: Impact of annealing on material and electrical characteristics of lithium
+    phosphate thin films on silicon carbide
+  authors:
+  - Hyung-Jin Lee, Soo-Young Moon, Hee-Jae Lee, Dong-Wook Byun, Seung-Woo Jung, Michael
+    A. Schweitz
+  - '**Minkyung Kim**'
+  - Jong-Min Oh, Weon Ho Shin, Chulhwan Park, Sang-Mo Koo*
+  publisher: Journal of Materials Research and Technology
+  date: '2023-05-01'
+  link: https://doi.org/g9g66v
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
+- id: doi:10.1021/acsaem.3c00275
+  title: Regulating Single-Crystal LiNiO<sub>2</sub> Size and Surface Coating toward
+    a High-Capacity Cathode for Lithium-Ion Batteries
+  authors:
+  - '**Dong-hee Lee**'
+  - Maxim Avdeev, Dong-il Kim, Weon Ho Shin, John Hong
+  - '**Minkyung Kim***'
+  publisher: ACS Applied Energy Materials
+  date: '2023-05-03'
+  link: https://doi.org/g9g66z
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsaem.3c00275/asset/images/medium/ae3c00275_0007.gif
+- id: doi:10.3390/ma15124283
+  title: "Fabrication of Large-Area Mullite\u2013Cordierite Composite Substrates for\
+    \ Semiconductor Probe Cards and Enhancement of Their Reliability"
+  authors:
+  - Da-Eun Hyun, Jwa-Bin Jeon, Yeon-Sook Lee, Yong-Nam Kim
+  - '**Minkyung Kim**'
+  - Seunghoon Ko, Sang-Mo Koo, Weon Ho Shin, Chulhwan Park
+  - Dong-Won Lee\*
+  - Jong-Min Oh\*
+  publisher: Materials
+  date: '2022-06-17'
+  link: https://doi.org/g9g66n
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
+- id: doi:10.1039/d2ta02492f
+  title: "Improving LiNiO\n                    <sub>2</sub>\n                    cathode\
+    \ performance through particle design and optimization"
+  authors:
+  - Minkyung Kim
+  - Lianfeng Zou
+  - Seoung-Bum Son
+  - Ira D. Bloom
+  - Chongmin Wang
+  - Guoying Chen
+  publisher: Journal of Materials Chemistry A
+  date: '2022-01-01'
+  link: https://doi.org/g9g66d
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jpowsour.2022.231692
+  title: "Newly developed \u03B3-NaTiOPO4 by simple solid-state synthesis for anode\
+    \ material of Na-ion batteries in both nonaqueous and aqueous electrolytes"
+  authors:
+  - Doyoub Kim, Heetaek Park, Maxim Avdeev
+  - '**Minkyung Kim***'
+  - Byoungwoo Kang\*
+  publisher: Journal of Power Sources
+  date: '2022-09-01'
+  link: https://doi.org/g9g66w
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
+- id: doi:10.1039/d1ta10459d
+  title: Synthesis of flower-like manganese oxide for accelerated surface redox reactions
+    on nitrogen-rich graphene of fast charge transport for sustainable aqueous energy
+    storage
+  authors:
+  - Jong Hyeong Lim
+  - Jong Ho Won
+  - Mun Kyoung Kim
+  - Dae Soo Jung
+  - Minkyung Kim
+  - Chulhwan Park
+  - Sang-Mo Koo
+  - Jong-Min Oh
+  - Hyung Mo Jeong
+  - Hiesang Sohn
+  - Weon Ho Shin
+  publisher: Journal of Materials Chemistry A
+  date: '2022-01-01'
+  link: https://doi.org/g9g66f
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ma15062284
+  title: Thermoelectric Properties of Cu2Te Nanoparticle Incorporated N-Type Bi2Te2.7Se0.3
+  authors:
+  - Yong-Jae Jung, Hyun-Sik Kim, Jong Ho Won
+  - '**Minkyung Kim**'
+  - Minji Kang, Eun Young Jang, Nguyen Vu Binh, Sang-il Kim, Kyoung-Seok Moon, Jong
+    Wook Roh, Woo Hyun Nam, Sang-Mo Koo, Jong-Min Oh
+  - Jung Young Cho\*
+  - Weon Ho Shin\*
+  publisher: Materials
+  date: '2022-03-19'
+  link: https://doi.org/g9g66k
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
+- id: doi:10.1002/adfm.202109759
+  title: 'Toward Achieving High Kinetics in Anodeless Li<sub>2</sub>S Battery: Surface
+    Modification of Cu Current Collector'
+  authors:
+  - Yongjo Jung, Seoungkyu Park, Jin Kon Kim
+  - '**Minkyung Kim***'
+  - Byoungwoo Kang\*
+  publisher: Advanced Functional Materials
+  date: '2021-11-12'
+  link: https://doi.org/gp2pzv
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd169da4-7c1e-4369-a3c0-07d35a488b5e/adfm202109759-fig-0001-m.png
+- id: doi:10.21203/rs.3.rs-882673/v1
+  title: Reliability and Durability Enhancement of Large-area Mullite-cordierite Composite
+    Substrates for Semiconductor Probe Card
+  authors:
+  - Da-Eun Hyun
+  - Jwa-Bin Jeon
+  - Yeon-Ji Choi
+  - Yeon-Sook Lee
+  - Yong-Nam Kim
+  - Minkyung Kim
+  - Seunghoon Ko
+  - Sang-Mo Koo
+  - Weon Ho Shin
+  - Chulhwan Park
+  - Dong-Won Lee
+  - Jong-Min Oh
+  publisher: Research Square Platform LLC
+  date: '2021-09-20'
+  link: https://doi.org/hcbpbf
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsenergylett.9b02451
+  title: 'Multielectron-Capable Li-Rich Polyanion Material with High Operating Voltage:
+    Li<sub>5</sub>V<sub>2</sub>PO<sub>4</sub>F<sub>8</sub> for Li-Ion Batteries'
+  authors:
+  - '**Minkyung Kim**'
+  - Maxim Avdeev, Byoungwoo Kang*
+  publisher: ACS Energy Letters
+  date: '2019-12-13'
+  link: https://doi.org/g9g66j
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
+- id: doi:10.1039/d0ee02518f
+  title: Ultrafast kinetics in a phase separating electrode material by forming an
+    intermediate phase without reducing the particle size
+  authors:
+  - Minkyung Kim
+  - Mihee Jeong
+  - Won-Sub Yoon
+  - Byoungwoo Kang
+  publisher: Energy &amp; Environmental Science
+  date: '2020-01-01'
+  link: https://doi.org/gpm6bb
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsaem.0c02278
+  title: "Understanding Reactivities of Ni-Rich Li[Ni<sub><i>x</i></sub>Mn<sub><i>y</i></sub>Co<sub>1\u2013\
+    <i>x</i>\u2013<i>y</i></sub>]O<sub>2</sub> Single-Crystal Cathode Materials"
+  authors:
+  - '**Minkyung Kim**'
+  - Jian Zhu, Linze Li, Chongmin Wang, Guoying Chen*
+  publisher: ACS Applied Energy Materials
+  date: '2020-11-23'
+  link: https://doi.org/g9g66c
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
+- id: doi:10.1016/j.joule.2019.01.002
+  title: High Rate Li-Ion Batteries with Cation-Disordered Cathodes
+  authors:
+  - Minkyu Kim, Donghoon Kim, Yuren Wen
+  - '**Minkyung Kim**'
+  - Hyun Myung Jang, Hong Li, Lin Gu, Byoungwoo Kang*
+  publisher: Joule
+  date: '2019-04-01'
+  link: https://doi.org/g9g66g
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
+- id: doi:10.1039/c9ta03070k
+  title: "Understanding the effects of oxygen defects on the redox reaction pathways\
+    \ in LiVPO\n                    <sub>4</sub>\n                    F by combining\n\
+    \                    <i>ab initio</i>\n                    calculations with experiments"
+  authors:
+  - Heetaek Park
+  - Minkyung Kim
+  - ShinYoung Kang
+  - Byoungwoo Kang
+  publisher: Journal of Materials Chemistry A
+  date: '2019-01-01'
+  link: https://doi.org/g9g66m
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aenm.201800298
+  title: Unusual Activation of Cation Disordering by Li/Fe Rearrangement in Triplite
+    LiFeSO<sub>4</sub>F
+  authors:
+  - Minkyu Kim
+  - '**Minkyung Kim**'
+  - Heetaek Park, Hong Li, Byoungwoo Kang*
+  publisher: Advanced Energy Materials
+  date: '2018-05-28'
+  link: https://doi.org/g9g66h
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
+- id: doi:10.1002/advs.201600524
+  title: "Fast\u2010Rate Capable Electrode Material with Higher Energy Density than\
+    \ LiFePO<sub>4</sub> : 4.2V LiVPO<sub>4</sub>F Synthesized by Scalable Single\u2010\
+    Step Solid\u2010State Reaction"
+  authors:
+  - Minkyung Kim
+  - Seongsu Lee
+  - Byoungwoo Kang
+  publisher: Advanced Science
+  date: '2017-01-18'
+  link: https://doi.org/f3txtj
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.chemmater.7b00124
+  title: "High Energy Density Polyanion Electrode Material: LiVPO<sub>4</sub>O<sub>1\u2013\
+    <i>x</i></sub>F<sub><i>x</i></sub> (<i>x</i> \u2248 0.25) with Tavorite Structure"
+  authors:
+  - '**Minkyung Kim**'
+  - Seongsu Lee, Byoungwoo Kang*
+  publisher: Chemistry of Materials
+  date: '2017-05-23'
+  link: https://doi.org/gbj9nk
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
 - id: doi:10.1002/advs.201500366
   title: "Fast\u2010Rate Capable Electrode Material with Higher Energy Density than\
     \ LiFePO<sub>4</sub>: 4.2V LiVPO<sub>4</sub>F Synthesized by Scalable Single\u2010\
@@ -94,36 +576,14 @@
   publisher: Advanced Science
   date: '2015-12-29'
   link: https://doi.org/f3kg6g
+  orcid: 0009-0005-9790-7278
+  Minkyung Kim: true
+  plugin: sources.py
+  file: sources.yaml
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/826e7547-bb6a-414e-9b86-0df6cbb19c1b/advs92-fig-0006-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acsaem.0c02278
-  title: "Understanding Reactivities of Ni-Rich Li[Ni<sub><i>x</i></sub>Mn<sub><i>y</i></sub>Co<sub>1\u2013\
-    <i>x</i>\u2013<i>y</i></sub>]O<sub>2</sub> Single-Crystal Cathode Materials"
-  authors:
-  - '**Minkyung Kim**'
-  - Jian Zhu, Linze Li, Chongmin Wang, Guoying Chen*
-  publisher: ACS Applied Energy Materials
-  date: '2020-11-23'
-  link: https://doi.org/g9g66c
-  image: https://pubs.acs.org/cms/10.1021/acsaem.0c02278/asset/images/medium/ae0c02278_0008.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acs.chemmater.7b00124
-  title: "High Energy Density Polyanion Electrode Material: LiVPO<sub>4</sub>O<sub>1\u2013\
-    <i>x</i></sub>F<sub><i>x</i></sub> (<i>x</i> \u2248 0.25) with Tavorite Structure"
-  authors:
-  - '**Minkyung Kim**'
-  - Seongsu Lee, Byoungwoo Kang*
-  publisher: Chemistry of Materials
-  date: '2017-05-23'
-  link: https://doi.org/gbj9nk
-  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.7b00124/asset/images/medium/cm-2017-00124f_0008.gif
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1039/D2TA02492F
-  title: Improving LiNiO<sub>2</sub> cathode performance through particle design and
-    optimization
+  title: "Improving LiNiO\n                    <sub>2</sub>\n                    cathode\
+    \ performance through particle design and optimization"
   authors:
   - '**Minkyung Kim**'
   - Lianfeng Zou, Seoung-Bum Son, Ira D. Bloom, Chongmin Wang, Guoying Chen*
@@ -149,18 +609,6 @@
   image: https://pubs.rsc.org/image/article/2022/TA/d1ta10459d/d1ta10459d-f1.gif
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.joule.2019.01.002
-  title: High Rate Li-Ion Batteries with Cation-Disordered Cathodes
-  authors:
-  - Minkyu Kim, Donghoon Kim, Yuren Wen
-  - '**Minkyung Kim**'
-  - Hyun Myung Jang, Hong Li, Lin Gu, Byoungwoo Kang*
-  publisher: Joule
-  date: '2019-04-01'
-  link: https://doi.org/g9g66g
-  image: https://www.cell.com/cms/10.1016/j.joule.2019.01.002/asset/bbbad183-d97c-4a8f-9213-dfe44602ded8/main.assets/gr6_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1039/D0EE02518F
   title: Ultrafast kinetics in a phase separating electrode material by forming an
     intermediate phase without reducing the particle size
@@ -173,49 +621,10 @@
   image: https://pubs.rsc.org/image/article/2020/EE/d0ee02518f/d0ee02518f-f1.gif
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1002/aenm.201800298
-  title: Unusual Activation of Cation Disordering by Li/Fe Rearrangement in Triplite
-    LiFeSO<sub>4</sub>F
-  authors:
-  - Minkyu Kim
-  - '**Minkyung Kim**'
-  - Heetaek Park, Hong Li, Byoungwoo Kang*
-  publisher: Advanced Energy Materials
-  date: '2018-05-28'
-  link: https://doi.org/g9g66h
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/bd3b2bc4-c3e3-4981-ab5d-8cc43ec40a78/aenm201800298-fig-0001-m.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acsenergylett.9b02451
-  title: 'Multielectron-Capable Li-Rich Polyanion Material with High Operating Voltage:
-    Li<sub>5</sub>V<sub>2</sub>PO<sub>4</sub>F<sub>8</sub> for Li-Ion Batteries'
-  authors:
-  - '**Minkyung Kim**'
-  - Maxim Avdeev, Byoungwoo Kang*
-  publisher: ACS Energy Letters
-  date: '2019-12-13'
-  link: https://doi.org/g9g66j
-  image: https://pubs.acs.org/cms/10.1021/acsenergylett.9b02451/asset/images/medium/nz9b02451_0006.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3390/ma15062284
-  title: Thermoelectric Properties of Cu2Te Nanoparticle Incorporated N-Type Bi2Te2.7Se0.3
-  authors:
-  - Yong-Jae Jung, Hyun-Sik Kim, Jong Ho Won
-  - '**Minkyung Kim**'
-  - Minji Kang, Eun Young Jang, Nguyen Vu Binh, Sang-il Kim, Kyoung-Seok Moon, Jong
-    Wook Roh, Woo Hyun Nam, Sang-Mo Koo, Jong-Min Oh
-  - Jung Young Cho\*
-  - Weon Ho Shin\*
-  publisher: Materials
-  date: '2022-03-19'
-  link: https://doi.org/g9g66k
-  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g002-550.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1039/C9TA03070K
-  title: Understanding the effects of oxygen defects on the redox reaction pathways
-    in LiVPO<sub>4</sub>F by combining <i>ab initio</i> calculations with experiments
+  title: "Understanding the effects of oxygen defects on the redox reaction pathways\
+    \ in LiVPO\n                    <sub>4</sub>\n                    F by combining\n\
+    \                    <i>ab initio</i>\n                    calculations with experiments"
   authors:
   - Heetaek Park
   - '**Minkyung Kim**'
@@ -225,87 +634,5 @@
   date: '2019-01-01'
   link: https://doi.org/g9g66m
   image: https://pubs.rsc.org/image/article/2019/TA/c9ta03070k/c9ta03070k-f8.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3390/ma15124283
-  title: "Fabrication of Large-Area Mullite\u2013Cordierite Composite Substrates for\
-    \ Semiconductor Probe Cards and Enhancement of Their Reliability"
-  authors:
-  - Da-Eun Hyun, Jwa-Bin Jeon, Yeon-Sook Lee, Yong-Nam Kim
-  - '**Minkyung Kim**'
-  - Seunghoon Ko, Sang-Mo Koo, Weon Ho Shin, Chulhwan Park
-  - Dong-Won Lee\*
-  - Jong-Min Oh\*
-  publisher: Materials
-  date: '2022-06-17'
-  link: https://doi.org/g9g66n
-  image: https://www.mdpi.com/materials/materials-15-02284/article_deploy/html/images/materials-15-02284-g001-550.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1149/1945-7111/ad51a9
-  title: "Enhancing Cycle Stability via Discharge Voltage Regulation in Li\u2013S\
-    \ Batteries: Impact of the Lower Cutoff Voltage on Electrochemical Stability"
-  authors:
-  - '**Changyu Yeo**'
-  - '**Minkyung Kim***'
-  publisher: Journal of The Electrochemical Society
-  date: '2024-06-03'
-  link: https://doi.org/g8p9jr
-  image: https://content.cld.iop.org/journals/1945-7111/171/6/060511/revision2/jesad51a9f1_lr.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jmrt.2023.03.024
-  title: Impact of annealing on material and electrical characteristics of lithium
-    phosphate thin films on silicon carbide
-  authors:
-  - Hyung-Jin Lee, Soo-Young Moon, Hee-Jae Lee, Dong-Wook Byun, Seung-Woo Jung, Michael
-    A. Schweitz
-  - '**Minkyung Kim**'
-  - Jong-Min Oh, Weon Ho Shin, Chulhwan Park, Sang-Mo Koo*
-  publisher: Journal of Materials Research and Technology
-  date: '2023-05-01'
-  link: https://doi.org/g9g66v
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S223878542300488X-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jpowsour.2022.231692
-  title: "Newly developed \u03B3-NaTiOPO4 by simple solid-state synthesis for anode\
-    \ material of Na-ion batteries in both nonaqueous and aqueous electrolytes"
-  authors:
-  - Doyoub Kim, Heetaek Park, Maxim Avdeev
-  - '**Minkyung Kim***'
-  - Byoungwoo Kang\*
-  publisher: Journal of Power Sources
-  date: '2022-09-01'
-  link: https://doi.org/g9g66w
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775322006899-gr3.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/advs.202410114
-  title: "Achieving High Stability and Capacity in Micron\u2010Sized Conversion\u2010\
-    Type Iron Fluoride Li\u2010Metal Batteries"
-  authors:
-  - _**Chiwon Choi#**_
-  - _**Hyunmin Yoon#**_
-  - Seungyeop Kang, Dong Il Kim, John Hong, Minjeong Shin, Dong-Joo Yoo
-  - '**Minkyung Kim***'
-  publisher: Advanced Science
-  date: '2024-10-23'
-  link: https://doi.org/g9g66x
-  description: _(# Equally contribuited)_
-  image: https://advanced.onlinelibrary.wiley.com/cms/asset/20973892-a729-44de-9d81-a459e99f1b79/advs9942-fig-0005-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acsaem.3c00275
-  title: Regulating Single-Crystal LiNiO<sub>2</sub> Size and Surface Coating toward
-    a High-Capacity Cathode for Lithium-Ion Batteries
-  authors:
-  - '**Dong-hee Lee**'
-  - Maxim Avdeev, Dong-il Kim, Weon Ho Shin, John Hong
-  - '**Minkyung Kim***'
-  publisher: ACS Applied Energy Materials
-  date: '2023-05-03'
-  link: https://doi.org/g9g66z
-  image: https://pubs.acs.org/cms/10.1021/acsaem.3c00275/asset/images/medium/ae3c00275_0007.gif
   plugin: sources.py
   file: sources.yaml
