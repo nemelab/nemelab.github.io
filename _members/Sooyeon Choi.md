@@ -2,7 +2,8 @@
 name: Sooyeon Choi
 image: images/최수연 사진.jpg
 role: alumni
-description: alumni
+order: 3
+description: Master Graduate
 links:
   email: ggb4669@gmail.com
   

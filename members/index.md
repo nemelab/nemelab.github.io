@@ -69,5 +69,8 @@ nav:
 
 <h2>Alumni</h2>
 <div class="member-section">
-  {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+  {% assign alumni = site.members | where: "role", "alumni" | sort: "order" %}
+  {% for member in alumni %}
+    {% include portrait.html member=member %}
+  {% endfor %}
 </div>

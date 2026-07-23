@@ -1,9 +1,10 @@
 ---
 name: Chiwon Choi
 image: images/최치원사진.jpg
-role: master
-order : 2
-description: Master Candidate
+role: alumni
+order: 4
+description: Master Graduate
+affiliation: Purdue University
 links:
   email: ggb4669@gmail.com
   
