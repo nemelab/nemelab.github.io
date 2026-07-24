@@ -42,11 +42,13 @@ layout: default
 {% endcapture %}
 
 {% if member_pubs contains "citation-container" %}
-  <h2>Publications</h2>
-  {{ member_pubs }}
-  <p class="center">
-    <a href="{{ 'publication/' | relative_url | uri_escape }}">
-      See all publications on the Publication page
-    </a>
-  </p>
+  <div style="display: flow-root;">
+    <h2>Publications</h2>
+    {{ member_pubs }}
+    <p class="center">
+      <a href="{{ 'publication/' | relative_url | uri_escape }}">
+        See all publications on the Publication page
+      </a>
+    </p>
+  </div>
 {% endif %}
