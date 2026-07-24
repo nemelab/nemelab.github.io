@@ -3,9 +3,6 @@ name: Minkyung Kim
 image: images/교수님 사진.jpg
 role: principal-investigator
 affiliation: Kwangwoon University
-aliases:
-  - 
-  - 
 links:
   
 ---
