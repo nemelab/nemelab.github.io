@@ -2,8 +2,8 @@
 name: Hyunmin Yoon
 image: images/yoon.jpg
 role: master
-order : 1
-description: Master Candidate
+order: 1
+description: Master Graduate
 links:
   email: ggb4669@gmail.com
   
